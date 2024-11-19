@@ -35,9 +35,11 @@ The **Minimap Manager** class defines the playable area for your minimap.
 To display a player marker or other markers, you need to register the actor to the minimap system.
 
 1. Add the `ACGenericMinimap` **Actor Component** to any actor you want to appear on the minimap.
+![](Resources/Docs/add_component.webp)
 2. On Begin Play call the **SpawnAndRegister** function.
+![](Resources/Docs/EventBeginPlay.PNG)
 3. The spawned marker will automatically follow the actor's position.
-> This will be more modular in the future. For now I recommend using this function for Pawn class.
+> This will be more modular in the future. For now I recommend using this function for the Pawn class.
 
 ---
 
