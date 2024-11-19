@@ -54,7 +54,7 @@ To display a player marker or other markers, you need to register the actor to t
 4. Open the **MinimapCaptureTarget** render target in the plugin's content folder (`Art -> Texture`).
 5. Adjust the Z value of the **Minimap2D_Capture** actor in the world to ensure it captures all actors in the playable area.
 6. Right-click the assigned **Render Target** and select **Create Static Texture**.
-![](minimap_capture_target01.webp)
+![](\Resources\minimap_capture_target01.webp)
 7. Use the generated texture as the minimap's background image.
 
 ---
