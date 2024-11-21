@@ -4,8 +4,6 @@ This plugin provides a modular minimap system for Unreal Engine. It includes sup
 
 ---
 
-## Installation
-
 ### Downloading the Plugin
 - Download the plugin from the GitHub repository.
 - This is a **C++ plugin**, so it requires a C++ project to compile.
@@ -19,7 +17,14 @@ This plugin provides a modular minimap system for Unreal Engine. It includes sup
 
 ---
 
-## Usage
+## Usage 🎥
+Watch the quick start guide video to see how to set up and use the plugin:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uBdLSil9oZY/0.jpg)](https://www.youtube.com/watch?v=uBdLSil9oZY)
+
+---
+
+## Detailed Documentation
+For in-depth explanations, setup instructions, and advanced features, visit the [Wiki](https://github.com/at0micarrow/GenericMinimap/wiki).
 
 ### 1. Setting Up the Minimap Manager
 The **Minimap Manager** class defines the playable area for your minimap.
